@@ -7,9 +7,7 @@
  [  
  **Repositorio Oficial:** `ascanio-post1-u6`  
    
- **Entorno Anfitrión:** Linux x86_64 (Ubuntu / ASUS Vivobook Go E1504FA)  
-   
- **Herramientas:** DOSBox 0.74-3, Netwide Assembler (NASM v2.14+ / nasm.exe DOS), Depurador DEBUG.COM / DEBUG.EXE](mailto:julianandresac@ufps.edu.co "mailto:julianandresac@ufps.edu.co")  
+ **Herramientas:** DOSBox 0.74-3, Netwide Assembler (NASM v2.14+ / nasm.exe DOS), Depurador DEBUG.COM / DEBUG.EXE]
   
 ---  
 **1. Contexto y Objetivos del Laboratorio**  
@@ -23,8 +21,7 @@ El repositorio conserva una jerarquía limpia, modular y reproducible:
 ```  
 ascanio-post1-u6/  
  ├── README.md                      # Informe técnico completo, tablas de traza y decisiones justificadas  
- ├── dosbox.conf                    # Configuración optimizada de emulación de ciclos y montura DOSBox  
- ├── ascanio-post1-u6.txt           # Enlace canónico al repositorio GitHub para entrega académica  
+ ├── dosbox.conf                    # Configuración optimizada de emulación de ciclos y montura DOSBox 
  ├── .gitignore                     # Filtro de herramientas binarias DOS y temporales  
  ├── src/                           # Código fuente en lenguaje ensamblador NASM (16 bits)  
  │   ├── lab6_instrucciones.asm     # Programa principal de la Parte 1 (5 bloques de instrucciones)  
